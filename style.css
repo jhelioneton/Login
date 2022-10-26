@@ -5,3 +5,11 @@
     padding: 0;
     font-family: 'Quicksand', sans-serif;
 }
+
+body {
+    background-image: url(https://i.imgur.com/XE6eH9p.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
